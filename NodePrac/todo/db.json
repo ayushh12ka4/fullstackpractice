@@ -1,0 +1,6 @@
+{
+  "todos": [
+    { "id": 0, "task": "dancing", "status": "pending" },
+    { "id": 6, "task": "singing", "status": "pending" }
+  ]
+}
