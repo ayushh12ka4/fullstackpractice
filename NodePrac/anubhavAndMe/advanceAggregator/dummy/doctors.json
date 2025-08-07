@@ -1,0 +1,72 @@
+[
+  {
+    "_id": "66c8f8a00123456789abc001",
+    "name": "Dr. Alice Johnson",
+    "specialty": "Cardiologist",
+    "experience": 12,
+    "availability": ["Monday", "Wednesday", "Friday"]
+  },
+  {
+    "_id": "66c8f8a00123456789abc002",
+    "name": "Dr. Brian Lee",
+    "specialty": "Neurologist",
+    "experience": 15,
+    "availability": ["Tuesday", "Thursday"]
+  },
+  {
+    "_id": "66c8f8a00123456789abc003",
+    "name": "Dr. Clara Smith",
+    "specialty": "Dermatologist",
+    "experience": 8,
+    "availability": ["Monday", "Thursday", "Saturday"]
+  },
+  {
+    "_id": "66c8f8a00123456789abc004",
+    "name": "Dr. David Brown",
+    "specialty": "Orthopedic Surgeon",
+    "experience": 20,
+    "availability": ["Wednesday", "Friday"]
+  },
+  {
+    "_id": "66c8f8a00123456789abc005",
+    "name": "Dr. Emily Davis",
+    "specialty": "Pediatrician",
+    "experience": 10,
+    "availability": ["Monday", "Tuesday"]
+  },
+  {
+    "_id": "66c8f8a00123456789abc006",
+    "name": "Dr. Frank Miller",
+    "specialty": "Oncologist",
+    "experience": 18,
+    "availability": ["Thursday", "Saturday"]
+  },
+  {
+    "_id": "66c8f8a00123456789abc007",
+    "name": "Dr. Grace Wilson",
+    "specialty": "Psychiatrist",
+    "experience": 14,
+    "availability": ["Monday", "Wednesday"]
+  },
+  {
+    "_id": "66c8f8a00123456789abc008",
+    "name": "Dr. Henry Thompson",
+    "specialty": "ENT Specialist",
+    "experience": 9,
+    "availability": ["Tuesday", "Friday"]
+  },
+  {
+    "_id": "66c8f8a00123456789abc009",
+    "name": "Dr. Irene Martinez",
+    "specialty": "Gynecologist",
+    "experience": 16,
+    "availability": ["Monday", "Thursday"]
+  },
+  {
+    "_id": "66c8f8a00123456789abc010",
+    "name": "Dr. Jack Anderson",
+    "specialty": "General Physician",
+    "experience": 7,
+    "availability": ["Wednesday", "Saturday"]
+  }
+]

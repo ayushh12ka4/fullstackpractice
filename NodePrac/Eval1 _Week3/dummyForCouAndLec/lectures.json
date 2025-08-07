@@ -1,0 +1,56 @@
+
+
+
+[
+   {
+      "name":"Introduction to Backend",
+      "courseId":"1",
+      "_id":"1"
+   },
+   {
+      "name":"Setting Up Express.js Server",
+      "courseId":"1",
+      "_id":"2"
+   },
+   {
+      "name":"Handling Routes and Middleware",
+      "courseId":"1",
+      "_id":"3"
+   },
+   {
+      "name":"Introduction to MongoDB & Mongoose",
+      "courseId":"1",
+      "_id":"4"
+   },
+   {
+      "name":"Building a Simple CRUD API",
+      "courseId":"1",
+      "_id":"5"
+   },
+ 
+   {
+      "name":"Authentication with JWT & Bcrypt",
+      "courseId":"2",
+      "_id":"6"
+   },
+   {
+      "name":"Middleware and Error Handling",
+      "courseId":"2",
+      "_id":"7"
+   },
+   {
+      "name":"Project Structure and Modularization",
+      "courseId":"2",
+      "_id":"8"
+   },
+   {
+      "name":"Aggregation in MongoDB",
+      "courseId":"2",
+      "_id":"9"
+   },
+   {
+      "name":"Generating Reports using fs Module",
+      "courseId":"2",
+      "_id":"10"
+   }
+]

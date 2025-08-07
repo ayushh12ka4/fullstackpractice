@@ -1,0 +1,92 @@
+[
+  {
+    "username": "john_doe",
+    "productName": "Wireless Bluetooth Headphones",
+    "category": "Electronics",
+    "quantity": 1,
+    "totalPrice": 79.99,
+    "orderDate": "2025-07-20T10:30:00Z",
+    "status": "Pending"
+  },
+  {
+    "username": "sarah_smith",
+    "productName": "Organic Cotton T-Shirt",
+    "category": "Clothing",
+    "quantity": 3,
+    "totalPrice": 45.00,
+    "orderDate": "2025-07-18T14:45:00Z",
+    "status": "Shipped"
+  },
+  {
+    "username": "michael_brown",
+    "productName": "Stainless Steel Water Bottle",
+    "category": "Home & Kitchen",
+    "quantity": 2,
+    "totalPrice": 30.00,
+    "orderDate": "2025-07-15T09:00:00Z",
+    "status": "Delivered"
+  },
+  {
+    "username": "emily_jones",
+    "productName": "Gaming Mouse",
+    "category": "Electronics",
+    "quantity": 1,
+    "totalPrice": 59.99,
+    "orderDate": "2025-07-10T17:20:00Z",
+    "status": "Cancelled"
+  },
+  {
+    "username": "daniel_lee",
+    "productName": "Yoga Mat",
+    "category": "Sports & Outdoors",
+    "quantity": 1,
+    "totalPrice": 25.50,
+    "orderDate": "2025-07-05T12:10:00Z",
+    "status": "Delivered"
+  },
+  {
+    "username": "olivia_clark",
+    "productName": "LED Desk Lamp",
+    "category": "Home & Kitchen",
+    "quantity": 2,
+    "totalPrice": 40.00,
+    "orderDate": "2025-07-22T08:15:00Z",
+    "status": "Pending"
+  },
+  {
+    "username": "william_taylor",
+    "productName": "Smartwatch",
+    "category": "Electronics",
+    "quantity": 1,
+    "totalPrice": 150.00,
+    "orderDate": "2025-07-19T11:50:00Z",
+    "status": "Shipped"
+  },
+  {
+    "username": "ava_martin",
+    "productName": "Leather Wallet",
+    "category": "Fashion Accessories",
+    "quantity": 1,
+    "totalPrice": 35.00,
+    "orderDate": "2025-07-17T15:40:00Z",
+    "status": "Delivered"
+  },
+  {
+    "username": "james_wilson",
+    "productName": "Camping Tent",
+    "category": "Sports & Outdoors",
+    "quantity": 1,
+    "totalPrice": 120.00,
+    "orderDate": "2025-07-12T09:25:00Z",
+    "status": "Shipped"
+  },
+  {
+    "username": "mia_harris",
+    "productName": "Noise Cancelling Earbuds",
+    "category": "Electronics",
+    "quantity": 2,
+    "totalPrice": 110.00,
+    "orderDate": "2025-07-09T13:35:00Z",
+    "status": "Delivered"
+  }
+]

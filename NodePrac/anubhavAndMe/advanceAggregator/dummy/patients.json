@@ -1,0 +1,82 @@
+[
+  {
+    "_id": "66c8f8a00123456789abd001",
+    "name": "John Doe",
+    "age": 45,
+    "gender": "Male",
+    "contact": "9876543210",
+    "medicalHistory": ["Diabetes", "Hypertension"]
+  },
+  {
+    "_id": "66c8f8a00123456789abd002",
+    "name": "Mary Smith",
+    "age": 32,
+    "gender": "Female",
+    "contact": "9123456780",
+    "medicalHistory": ["Asthma"]
+  },
+  {
+    "_id": "66c8f8a00123456789abd003",
+    "name": "Peter Parker",
+    "age": 28,
+    "gender": "Male",
+    "contact": "9988776655",
+    "medicalHistory": []
+  },
+  {
+    "_id": "66c8f8a00123456789abd004",
+    "name": "Sarah Connor",
+    "age": 38,
+    "gender": "Female",
+    "contact": "9812345678",
+    "medicalHistory": ["Thyroid"]
+  },
+  {
+    "_id": "66c8f8a00123456789abd005",
+    "name": "Bruce Wayne",
+    "age": 50,
+    "gender": "Male",
+    "contact": "9998887776",
+    "medicalHistory": ["High Cholesterol"]
+  },
+  {
+    "_id": "66c8f8a00123456789abd006",
+    "name": "Natasha Romanoff",
+    "age": 35,
+    "gender": "Female",
+    "contact": "9786543210",
+    "medicalHistory": []
+  },
+  {
+    "_id": "66c8f8a00123456789abd007",
+    "name": "Clark Kent",
+    "age": 42,
+    "gender": "Male",
+    "contact": "9123987654",
+    "medicalHistory": ["Anemia"]
+  },
+  {
+    "_id": "66c8f8a00123456789abd008",
+    "name": "Diana Prince",
+    "age": 30,
+    "gender": "Female",
+    "contact": "9800123456",
+    "medicalHistory": []
+  },
+  {
+    "_id": "66c8f8a00123456789abd009",
+    "name": "Steve Rogers",
+    "age": 40,
+    "gender": "Male",
+    "contact": "9811122233",
+    "medicalHistory": ["Hypertension"]
+  },
+  {
+    "_id": "66c8f8a00123456789abd010",
+    "name": "Tony Stark",
+    "age": 48,
+    "gender": "Male",
+    "contact": "9001122334",
+    "medicalHistory": ["Heart Condition"]
+  }
+]
